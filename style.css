@@ -1,0 +1,164 @@
+a {
+  text-decoration: none;
+}
+
+.center {
+  padding-left: calc(50% - 570px);
+  padding-right: calc(50% - 570px);
+}
+
+.header {
+  background-color: #222;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__left {
+  display: flex;
+  align-items: center;
+  gap: 41px;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+.top-head {
+  background-color: #F8F3F4;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.top-head__heading {
+  color: #F16D7F;
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.breadcrumbs__link {
+  color: #636363;
+  font-family: Lato;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.breadcrumbs__link__site {
+  color: #F16D7F;
+  font-weight: 700;
+}
+
+.imag {
+  background-color: rgb(247, 247, 247);
+  height: 777px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.card {
+  position: absolute;
+  text-align: center;
+  width: 1141px;
+  height: 601px;
+  border: 2px solid #EAEAEA;
+  z-index: 1;
+  padding-top: 64px;
+  padding-bottom: 64px;
+  margin-top: -50px;
+  background-color: #FFF;
+}
+
+.coose {
+  display: flex;
+  justify-content: center;
+}
+
+.card h3 {
+  color: #F16D7F;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 12px;
+  margin: 0;
+}
+
+.card h2 {
+  color: #4D4D4D;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.card p {
+  margin: 40px 294px;
+  color: rgb(94, 94, 94);
+  font-family: Lato;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.card h1 {
+  color: #F16D7F;
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.card h5 {
+  margin: 22px 10px;
+  color: #6F6E6E;
+  font-family: Lato;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.coose {
+  margin-top: 65px;
+  margin-bottom: 48px;
+}
+
+.card button {
+  border: 1px solid #F16D7F;
+  padding: 5px 24px 14px 24px;
+  color: #F16D7F;
+  text-align: center;
+  font-family: Lato;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.button svg {
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+.button {
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
